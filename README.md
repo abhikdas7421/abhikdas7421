@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Abhik 
+- 👋 Hi, I’m Abhik.
 - 👀 I’m interested in Competitive Programming and Development
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning Data Structure and Algorithm.
 - 💞️ I’m looking to collaborate on Open source for contribute
 - 📫 How to reach me ...abhikdas7421@gmail.com
 
