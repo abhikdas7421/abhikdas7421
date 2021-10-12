@@ -1,3 +1,7 @@
+### Hi there 👋
+
+https://wakatime.com/badge/user/1cd56c43-bd89-498a-8a25-ac2748fd540f.svg
+
 - 👋 Hi, I’m Abhik.
 - 👀 I’m interested in Competitive Programming and Development
 - 🌱 I’m currently learning Data Structure and Algorithm.
